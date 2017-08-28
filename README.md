@@ -81,8 +81,6 @@ Kele can create new messages using create_message
 ### Submitting Checkpoints
 
 Create new Bloc checkpoint submission:
-
+```
 >> kele_client.create_submission(checkpoint_id, assignment_branch, assignment_commit_link, comment)
-
-
-Creating a Ruby gem.
+```
